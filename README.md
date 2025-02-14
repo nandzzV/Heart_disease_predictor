@@ -9,18 +9,6 @@ This project uses **Machine Learning** to predict the risk of heart disease base
 - **Formatted Model Comparison**: Uses a **pretty table** for model performance.
 - **Jupyter Notebook Implementation**: Easy to run and modify.
 
-
-## ⚙️ Installation
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-repo/heart-disease-prediction.git
-   cd heart-disease-prediction
-   ```
-2. **Install required libraries:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## 🚀 Usage
 1. Open **Jupyter Notebook**:
    ```sh
